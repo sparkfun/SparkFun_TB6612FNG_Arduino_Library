@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map SparkFun TB6612
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Motor KEYWORD1 Motor
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+drive KEYWORD2
+brake KEYWORD2
+standby KEYWORD2
+left KEYWORD2
+right KEYWORD2
+forward KEYWORD2
+back KEYWORD2
+

@@ -1,9 +1,9 @@
 /******************************************************************************
-TB6612.h
+SparkFun_TB6612.h
 TB6612FNG H-Bridge Motor Driver Example code
 Michelle @ SparkFun Electronics
 8/20/16
-<github repository address>
+https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library
 
 Uses 2 motors to show examples of the functions in the library.  This causes
 a robot to do a little 'jig'.  Each movement has an equal and opposite movement
@@ -19,8 +19,8 @@ Developed with ROB-9457
 ******************************************************************************/
 
 
-#ifndef TB6612_h
-#define TB6612_h
+#ifndef SPARKFUN_TB6612_h
+#define SPARKFUN_TB6612_h
 
 #include <Arduino.h>
 
