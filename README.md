@@ -44,6 +44,6 @@ If you have any questions or concerns on licensing, please contact techsupport@s
 
 Distributed as-is; no warranty is given.
 
-- Your friends at SparkFun.
+-Your friends at SparkFun.
 
 
